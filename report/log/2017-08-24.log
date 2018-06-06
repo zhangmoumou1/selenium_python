@@ -1,0 +1,88 @@
+2017-08-24 10:52:39,254 - root - INFO - ############################### START ###############################
+2017-08-24 10:52:44,065 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1670665740966797 seconds
+2017-08-24 10:52:45,491 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex, Spend 1.426081895828247 seconds
+2017-08-24 10:52:45,533 - root - INFO - SUCCESS    Switch to frame element: <xpath->//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]>, Spend 0.04000210762023926 seconds
+2017-08-24 10:52:45,600 - root - INFO - SUCCESS    Clear and type element: <id->unameInput> content: , Spend 0.06700348854064941 seconds
+2017-08-24 10:52:45,677 - root - INFO - SUCCESS    Clear and type element: <id->pwdInput> content: zyc12345, Spend 0.0760045051574707 seconds
+2017-08-24 10:52:45,823 - root - INFO - SUCCESS    Clicked element: <css selector->input[name = 'login']>, Spend 0.14600825309753418 seconds
+2017-08-24 10:52:45,858 - root - INFO - SUCCESS    positioned to element: <class name->wrong> , Spend 0.03500175476074219 seconds
+2017-08-24 10:52:45,859 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:46,096 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a1_1.jpg, Spend 0.23601365089416504 seconds
+2017-08-24 10:52:46,204 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex, Spend 0.10700631141662598 seconds
+2017-08-24 10:52:46,228 - root - INFO - SUCCESS    Switch to frame element: <xpath->//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]>, Spend 0.02300095558166504 seconds
+2017-08-24 10:52:46,295 - root - INFO - SUCCESS    Clear and type element: <id->unameInput> content: 15868147450, Spend 0.06700396537780762 seconds
+2017-08-24 10:52:46,351 - root - INFO - SUCCESS    Clear and type element: <id->pwdInput> content: , Spend 0.05600333213806152 seconds
+2017-08-24 10:52:46,468 - root - INFO - SUCCESS    Clicked element: <css selector->input[name = 'login']>, Spend 0.11600661277770996 seconds
+2017-08-24 10:52:46,492 - root - INFO - SUCCESS    positioned to element: <class name->wrong> , Spend 0.022001266479492188 seconds
+2017-08-24 10:52:46,492 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:46,678 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a1_2.jpg, Spend 0.18501067161560059 seconds
+2017-08-24 10:52:46,753 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex, Spend 0.0740041732788086 seconds
+2017-08-24 10:52:46,781 - root - INFO - SUCCESS    Switch to frame element: <xpath->//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]>, Spend 0.026001691818237305 seconds
+2017-08-24 10:52:46,848 - root - INFO - SUCCESS    Clear and type element: <id->unameInput> content: 15868147450, Spend 0.06700372695922852 seconds
+2017-08-24 10:52:46,910 - root - INFO - SUCCESS    Clear and type element: <id->pwdInput> content: zyc12345, Spend 0.06100320816040039 seconds
+2017-08-24 10:52:48,805 - root - INFO - SUCCESS    Clicked element: <css selector->input[name = 'login']>, Spend 1.894108533859253 seconds
+2017-08-24 10:52:48,862 - root - INFO - SUCCESS    positioned to element: <css selector->span[title = '好的好的d']> , Spend 0.05600333213806152 seconds
+2017-08-24 10:52:48,863 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:49,112 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a1_3.jpg, Spend 0.24701428413391113 seconds
+2017-08-24 10:52:52,163 - root - INFO - ###############################  End  ###############################
+2017-08-24 10:52:52,166 - root - INFO - ############################### START ###############################
+2017-08-24 10:52:57,050 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.180067539215088 seconds
+2017-08-24 10:52:58,058 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 1.0060575008392334 seconds
+2017-08-24 10:52:58,143 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.08300471305847168 seconds
+2017-08-24 10:52:58,201 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.057003021240234375 seconds
+2017-08-24 10:52:58,232 - root - INFO - SUCCESS    positioned to element: <id->usernameId> , Spend 0.031001806259155273 seconds
+2017-08-24 10:52:58,233 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:58,499 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_1.jpg, Spend 0.26601505279541016 seconds
+2017-08-24 10:52:58,709 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.20901179313659668 seconds
+2017-08-24 10:52:58,773 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 1111, Spend 0.0630037784576416 seconds
+2017-08-24 10:52:58,824 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.05100274085998535 seconds
+2017-08-24 10:52:58,848 - root - INFO - SUCCESS    positioned to element: <id->usernameId> , Spend 0.022001266479492188 seconds
+2017-08-24 10:52:58,848 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:59,092 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_2.jpg, Spend 0.24201369285583496 seconds
+2017-08-24 10:52:59,373 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.2800161838531494 seconds
+2017-08-24 10:52:59,440 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 11111, Spend 0.06700372695922852 seconds
+2017-08-24 10:52:59,493 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.052002668380737305 seconds
+2017-08-24 10:52:59,516 - root - INFO - SUCCESS    positioned to element: <id->usernameId> , Spend 0.023001432418823242 seconds
+2017-08-24 10:52:59,517 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:52:59,775 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_3.jpg, Spend 0.25701451301574707 seconds
+2017-08-24 10:52:59,966 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.1910109519958496 seconds
+2017-08-24 10:53:00,041 - root - INFO - SUCCESS    Clear and type element: <id->username> content: dddddddddddddddddddd, Spend 0.0740044116973877 seconds
+2017-08-24 10:53:00,101 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.05800342559814453 seconds
+2017-08-24 10:53:00,849 - root - INFO - SUCCESS    positioned to element: <id->usernameId> , Spend 0.7480428218841553 seconds
+2017-08-24 10:53:00,850 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:53:01,097 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_4.jpg, Spend 0.24601411819458008 seconds
+2017-08-24 10:53:01,248 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.1500086784362793 seconds
+2017-08-24 10:53:01,317 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhangyancheng, Spend 0.06800389289855957 seconds
+2017-08-24 10:53:01,366 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.04800271987915039 seconds
+2017-08-24 10:53:01,401 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhangyancheng, Spend 0.03500223159790039 seconds
+2017-08-24 10:53:01,435 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.03300189971923828 seconds
+2017-08-24 10:53:01,479 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhangyancheng, Spend 0.04300236701965332 seconds
+2017-08-24 10:53:01,505 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.02500152587890625 seconds
+2017-08-24 10:53:01,540 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhangyancheng, Spend 0.03500175476074219 seconds
+2017-08-24 10:53:01,564 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.024001598358154297 seconds
+2017-08-24 10:53:01,586 - root - INFO - SUCCESS    positioned to element: <id->usernameId> , Spend 0.021001338958740234 seconds
+2017-08-24 10:53:01,587 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:53:01,856 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_5.jpg, Spend 0.26801538467407227 seconds
+2017-08-24 10:53:02,008 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.1520087718963623 seconds
+2017-08-24 10:53:02,072 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhang, Spend 0.0630035400390625 seconds
+2017-08-24 10:53:02,121 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.04800271987915039 seconds
+2017-08-24 10:53:02,717 - root - INFO - SUCCESS    positioned to element: <css selector->font[class='bold font14']> , Spend 0.5960335731506348 seconds
+2017-08-24 10:53:02,718 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:53:02,973 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_6.jpg, Spend 0.2540144920349121 seconds
+2017-08-24 10:53:03,114 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.1390078067779541 seconds
+2017-08-24 10:53:03,189 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhang, Spend 0.07500433921813965 seconds
+2017-08-24 10:53:03,241 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.0500025749206543 seconds
+2017-08-24 10:53:03,489 - root - INFO - SUCCESS    Clear and type element: <id->answer> content: , Spend 0.24801421165466309 seconds
+2017-08-24 10:53:03,547 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/qd.gif']>, Spend 0.057003021240234375 seconds
+2017-08-24 10:53:03,578 - root - INFO - SUCCESS    positioned to element: <id->answerMsg> , Spend 0.03000164031982422 seconds
+2017-08-24 10:53:03,579 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:53:03,810 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_6.jpg, Spend 0.23101329803466797 seconds
+2017-08-24 10:53:03,958 - root - INFO - SUCCESS    Navigated to http://www.cmread.com/www/goFindPwd, Spend 0.14700841903686523 seconds
+2017-08-24 10:53:04,022 - root - INFO - SUCCESS    Clear and type element: <id->username> content: zhang, Spend 0.0630035400390625 seconds
+2017-08-24 10:53:04,070 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/tj2.gif']>, Spend 0.04800295829772949 seconds
+2017-08-24 10:53:04,735 - root - INFO - SUCCESS    Clear and type element: <id->answer> content: 1111111111111, Spend 0.6640379428863525 seconds
+2017-08-24 10:53:04,793 - root - INFO - SUCCESS    Clicked element: <css selector->img[src = 'images/qd.gif']>, Spend 0.05800318717956543 seconds
+2017-08-24 10:53:05,367 - root - INFO - SUCCESS    positioned to element: <id->resultMsg> , Spend 0.5740327835083008 seconds
+2017-08-24 10:53:05,370 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-08-24 10:53:05,648 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\Git\migu-web\report\image\a2_8.jpg, Spend 0.27701568603515625 seconds
+2017-08-24 10:53:08,689 - root - INFO - ###############################  End  ###############################
