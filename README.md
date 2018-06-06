@@ -13,7 +13,7 @@
 6、最后可通过Jenkins+tomcat+git持续集成平台，实现脚本的维护、构建控制并输出测试报告<br>
 
 #### 二、框架目录讲解<br>
-![no view](https://github.com/zhangmoumou1/migu-web-1/blob/master/readme/%E6%A1%86%E6%9E%B6%E7%9B%AE%E5%BD%95.jpg)<br>
+![no view](https://github.com/zhangmoumou1/selenium-python/blob/master/readme/%E6%A1%86%E6%9E%B6%E7%9B%AE%E5%BD%95.jpg)<br>
 1、config文件夹：config.ini 配置项目的路径；globalparam.py 封装所有需要获取或者保存的路径，如日志、截图、测试报告、上传文件、测试数据;<br>
 <br>
 2、data文件夹：dataread.py读取excel数据，把字典存储在列表中；datas.xlsx存储测试数据;<br>
@@ -22,8 +22,8 @@
 <br>
 4、report文件夹：用例失败截图、用例成功截图、存放日志和测试报告;<br>
 <br>
-![no view](https://github.com/zhangmoumou1/migu-web-1/blob/master/readme/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A.jpg)<br>
-![no view](https://github.com/zhangmoumou1/migu-web-1/blob/master/readme/%E6%97%A5%E5%BF%97.jpg)<br>
+![no view](https://github.com/zhangmoumou1/selenium-python/blob/master/readme/%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A.jpg)<br>
+![no view](https://github.com/zhangmoumou1/selenium-python/blob/master/readme/%E6%97%A5%E5%BF%97.jpg)<br>
 <br>
 5、test_case文件夹：page_obj下主要写元素定位和动作流程；*sta.py根据page页面写测试用例;<br>
 <br>
