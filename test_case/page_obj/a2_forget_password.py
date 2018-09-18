@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/selenium_python')
 from public.base import Page
 from config import globalparam
 from data.testdata.data_read import Test1

@@ -1,4 +1,6 @@
 from selenium import webdriver
+import sys
+sys.path.append('/home/selenium_python')
 
 def select_browser(browser='chrome', remoteAddress=None):
     dc = {'platform': 'ANY', 'browserName': 'chrome', 'version': '', 'javascriptEnabled': True}

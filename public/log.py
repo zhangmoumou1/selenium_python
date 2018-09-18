@@ -2,6 +2,8 @@
 import logging
 import time
 import os
+import sys
+sys.path.append('/home/selenium_python')
 from config import globalparam
 
 log_path = globalparam.log_path

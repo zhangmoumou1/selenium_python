@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/selenium_python')
 from data.testdata.data_read import Test1
 from public.base import Page
 data1 = Test1().a1_data(sheet="a1_sta")

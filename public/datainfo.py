@@ -1,5 +1,7 @@
 # coding:utf-8
 import xlrd
+import sys
+sys.path.append('/home/selenium_python')
 class ExcelUtil():
     def __init__(self, excelPath, sheetName):
         self.data = xlrd.open_workbook(excelPath)

@@ -1,4 +1,6 @@
 # coding=utf-8
+import sys
+sys.path.append('/home/selenium_python')
 from HTMLTestRunner import HTMLTestRunner
 from config import globalparam
 import unittest
@@ -9,7 +11,7 @@ discover = unittest.defaultTestLoader.discover(test_dir, pattern="*sta.py")
 
 if __name__ == "__main__":
     # Get the current time in a certain format
-    now = time.strftime("%Y-%m-%d %H-%M-%S")
+    now = time.strftime("%Y-%m-%d-%H-%M-%S")
     # Define the report storage path
     filename = globalparam.report_path + "\\" + now + "result.html"
     fp = open(filename, "wb")

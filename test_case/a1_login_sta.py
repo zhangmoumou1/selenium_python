@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/selenium_python')
 import unittest
 #import ddt
 from public.exceptionscr import Screen

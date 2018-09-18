@@ -1,5 +1,7 @@
 from selenium import webdriver
 from config import globalparam
+import sys
+sys.path.append('/home/selenium_python')
 from public.base import Page
 class Screen(object):
     """截图功能装饰器"""

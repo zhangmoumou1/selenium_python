@@ -1,5 +1,7 @@
 #coding=utf-8
 import os
+import sys
+sys.path.append('/home/selenium_python')
 from public.readconfig import ReadConfig
 
 # Read configuration file

@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/home/selenium_python')
 from config import globalparam
 from public.base import Page
 

@@ -1,4 +1,6 @@
 import unittest
+import sys
+sys.path.append('/home/selenium_python')
 from public import myunit, function
 from public.base import Page
 from test_case.page_obj.a2_forget_password import forget

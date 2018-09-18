@@ -1,5 +1,7 @@
 import time
 import os.path
+import sys
+sys.path.append('/home/selenium_python')
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import  ActionChains
 from selenium.webdriver.support.wait import WebDriverWait

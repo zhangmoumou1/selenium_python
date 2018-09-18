@@ -1,6 +1,7 @@
 #coding:utf-8
-
 import os
+import sys
+sys.path.append('/home/selenium_python')
 import smtplib
 import time
 from email.mime.text import MIMEText
