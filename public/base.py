@@ -12,7 +12,7 @@ from public.log import Log
 from config import globalparam
 
 success = "SUCCESS   "
-fail = "【FAIL】   "
+fail = "FAIL   "
 logger = Log()
 
 class Page():
