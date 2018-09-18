@@ -20,6 +20,6 @@ report_path = os.path.join(prj_path, 'report', 'test_report')
 #Upload the autoit file path
 auto_path = os.path.join(prj_path, 'up_files', 'autoit_pic')
 # Default browser
-browser = 'chrome'
+browser = 'phantomjs'
 # Test data path
 data_path = os.path.join(prj_path, 'data', 'testdata')

@@ -7,7 +7,7 @@ class Test1():
     """Get the excel data"""
     def a1_data(self,sheet):
         """a1_login_sta's values"""
-        filepath = globalparam.data_path + "./" + "datas.xlsx"
+        filepath = globalparam.data_path + "/" + "datas.xlsx"
         sheetName = sheet
         data = ExcelUtil(filepath, sheetName)
         data1 = data.dict_data()
