@@ -20,7 +20,7 @@ class Page():
     页面基础类，用于所有页面的继承
 
     """
-    ai_url = "http://www.cmread.com"
+    ai_url = ""
     def __init__(self,selenium_driver,base_url = ai_url,parent = None):
         self.base_url = base_url
         self.driver = selenium_driver

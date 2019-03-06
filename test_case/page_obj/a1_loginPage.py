@@ -8,7 +8,7 @@ class login(Page):
     """
     User login page
     """
-    url = "/u/tologin.do?preUrl=http%3A%2F%2Fwww.cmread.com%2Fu%2Findex"
+    url = ""
     #定位器
     login_iframe_loc = ("xpath", "//iframe[contains(@src,'https://wap.cmread.com/sso/auth?e_p=1&response_type=token')]")
     login_username_loc = ("id", "unameInput")
