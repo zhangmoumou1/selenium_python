@@ -1,4 +1,4 @@
-# 🎉 当前项目为早年WEB自动化框架，APP自动化可使用云真机平台<a href="http://zhangyanc.club/subject/article/sonic_env/">点击查阅</a>
+# 🎉 当前框架应用于web自动化测试，APP自动化可使用云真机平台<a href="http://zhangyanc.club/subject/article/sonic_env/">点击查阅</a>
 #### 一、实现步骤参考
 1、理解框架各个模块和调用流程（如不理解可参考readme文件下的xmind流程图）<br>
 <br>
